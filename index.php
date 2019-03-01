@@ -32,7 +32,7 @@ $connect = mysqli_connect("localhost", "root", "", "calculator");
 
 <div class="container">
     <p class="h3">
-        Calculator
+        Calculators
     </p>
     <div class="form-group row">
         <label for="Rate" class="col-sm-2 col-form-label">US$ Rate</label>
